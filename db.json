@@ -1,3 +1,33 @@
 {
-  "notes": []
+  "notes": [
+    {
+      "tags": [
+        "bed",
+        "table"
+      ],
+      "content": "clean my room",
+      "id": 1694116741419
+    },
+    {
+      "tags": [
+        "bed",
+        "table"
+      ],
+      "content": "clean my room",
+      "id": 1694116742603
+    },
+    {
+      "tags": [
+        "bed",
+        "table"
+      ],
+      "content": "clean my room",
+      "id": 1694116743618
+    },
+    {
+      "tags": [],
+      "content": "study nodejs",
+      "id": 1694118430002
+    }
+  ]
 }
